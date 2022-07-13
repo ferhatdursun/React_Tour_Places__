@@ -1,0 +1,35 @@
+@import "../../scss/variable", "../../scss/mixins";
+
+header {
+  background-color: black;
+  padding: 1rem;
+}
+
+.header_1 {
+  list-style: none;
+  text-align: center;
+  font-size: x-large;
+}
+
+.header_1 a {
+  padding: 2rem;
+  font-family: "Amatic SC", cursive;
+  color: white;
+  &:hover {
+    color: black;
+    background-color: $arkafon;
+  }
+}
+
+@include media-xsm {
+  .header_1 {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@include media-sm {
+  .header_1 {
+    flex-direction: row;
+  }
+}

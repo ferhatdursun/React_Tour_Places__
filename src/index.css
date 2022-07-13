@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #bce3f5;
+}
+
+code {
+  font-family: "Amatic SC", cursive;
+}
+
+.popular {
+  margin: 2rem;
+  text-align: center;
+  font-size: x-large;
+  font-family: "Amatic SC", cursive;
+}
+
+
