@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Tour_Places/static/css/main.af254be8.css",
+    "main.js": "/React_Tour_Places/static/js/main.9ad0ba0d.js",
+    "index.html": "/React_Tour_Places/index.html",
+    "main.af254be8.css.map": "/React_Tour_Places/static/css/main.af254be8.css.map",
+    "main.9ad0ba0d.js.map": "/React_Tour_Places/static/js/main.9ad0ba0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af254be8.css",
+    "static/js/main.9ad0ba0d.js"
+  ]
+}
